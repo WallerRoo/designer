@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- header -->
+    <div class="header">
+       <div class="headeritem">
+            <div class="home">
+                <a href="">
+                    <img src="../source/logo.svg">
+                </a>
+            </div>
+            <div class="header_menu">
+                <div class="profile"><a href="../profile.html">Profile</a></div>
+                <div class="portfolio"><a href="../portfolio.html">Portfolio</a></div>
+                <div class="history"><a href="../history.html">History</a></div>
+        </div>
+    </div>
+    </div>
+    <!-- text area -->
+    <div class="inner">
+        <div class="information">
+            <h2>
+                categories
+            </h2>
+            <div>
+                Identity
+            </div>
+
+            <h2>
+                2021
+            </h2>
+            <div>
+                • Illustrater<br>
+                • solo work
+            </div>
+
+            <h2>
+                Information
+             </h2>
+
+             <div>
+                다분야 투자회사 오르카인베스트,<br>회사의 아이덴티티인 범고래와 우상향 화살표를 매치하였다.
+            </div>
+
+       </div>
+
+<!-- 작업물 상세 이미지  -->
+        <div class="contents">
+                <div class=contentimg>
+                    <img src="../source/portfoliosource/오르카인베스트상세.jpg">
+                </div>
+            </div>
+    </div>
+
+        
+</div>
+<div class="caption">Designer Waller Roo / South Korea Seoul</div>
+</body>
+</html>
